@@ -31,16 +31,19 @@
 **🧠 MRI Brain Tumor Identification (CNN + GUI)**
 
 **Technology Used:** Python, TensorFlow, Keras, OpenCV, GUI Toolkit
+
 **Description:** Developed a CNN-based GUI system for real-time MRI tumor detection. Achieved 98% precision across 4 tumor types (Glioma, Meningioma, Pituitary, No Tumor). Enhanced clinical decision-making support for radiologists.
 
 **💻 GUI-Based Tumor Classification using VGG Models**
 
 **Technology Used**: Python, TensorFlow, Keras, VGG16/VGG19, OpenCV, Tkinter
+
 **Description:** Designed a GUI-enabled tumor classifier using VGG architectures. Improved early detection accuracy by 15% and reduced diagnosis time by 20%, making diagnosis faster and more efficient.
 
 **🎥 Suspicious Activity Detection (Transfer Learning)**
 
 **Technology Used:** Python, TensorFlow, Keras, OpenCV, Pandas, NumPy
+
 **Description:** Implemented Transfer Learning on 2000+ video samples to detect unusual human activities (shoplifting, crawling, running). Achieved 92% accuracy and integrated a real-time alert system for smart surveillance.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
